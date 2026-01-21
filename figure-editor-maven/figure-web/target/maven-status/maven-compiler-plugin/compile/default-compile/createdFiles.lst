@@ -1,0 +1,7 @@
+Polygon.class
+InvalidPolygonException.class
+Shape.class
+ColoredPolygon.class
+FigureServlet.class
+ImageServlet.class
+WebServer.class

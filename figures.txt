@@ -1,0 +1,15 @@
+--- FIGURE ---
+class: ColoredPolygon
+name: Красный треугольник
+coordinates: (0,0) (4,0) (2,3)
+lineColor: #FF0000
+fillColor: #FFAAAA
+opacity: 0.7
+
+--- FIGURE ---
+class: ColoredPolygon
+name: Синий квадрат
+coordinates: (1,1) (5,1) (5,5) (1,5)
+lineColor: #0000FF
+fillColor: #AAAAFF
+opacity: 0.9

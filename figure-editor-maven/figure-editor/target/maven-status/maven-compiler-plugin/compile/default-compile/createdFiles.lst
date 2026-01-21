@@ -1,0 +1,13 @@
+JsonFigureIO.class
+FigureFileParser.class
+MainGUI$DrawingPanel.class
+Polygon.class
+MainGUI$DrawingPanel$1.class
+FigureItem.class
+InvalidPolygonException.class
+SqliteFigureIO.class
+Shape.class
+MainGUI$FigureMover.class
+MainGUI.class
+MainGUI$DrawingPanel$2.class
+ColoredPolygon.class
